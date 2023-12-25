@@ -1,0 +1,29 @@
+.form label{
+    display: block;
+}
+.home-page{
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(212,193,79,0.9725140056022409) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form{
+     
+    padding-top: 3px;
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.inp{
+    border-radius: 10px;
+}
+
+.btn{
+     
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
